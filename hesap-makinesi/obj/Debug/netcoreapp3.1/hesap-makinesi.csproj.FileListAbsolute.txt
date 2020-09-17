@@ -1,0 +1,13 @@
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi.deps.json
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi.runtimeconfig.json
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi.runtimeconfig.dev.json
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi.dll
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/bin/Debug/netcoreapp3.1/hesap-makinesi.pdb
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.AssemblyInfoInputs.cache
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.AssemblyInfo.cs
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.dll
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.pdb
+/home/abdulsamet/Masaüstü/C#/hesap-makinesi/obj/Debug/netcoreapp3.1/hesap-makinesi.genruntimeconfig.cache
