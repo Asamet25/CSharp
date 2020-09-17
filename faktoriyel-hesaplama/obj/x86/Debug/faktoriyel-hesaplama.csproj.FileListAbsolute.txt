@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/bin/Debug/faktoriyel-hesaplama.exe
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/bin/Debug/faktoriyel-hesaplama.pdb
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/obj/x86/Debug/faktoriyel-hesaplama.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/obj/x86/Debug/faktoriyel-hesaplama.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/obj/x86/Debug/faktoriyel-hesaplama.exe
+/home/abdulsamet/Masaüstü/C#/faktoriyel-hesaplama/obj/x86/Debug/faktoriyel-hesaplama.pdb
