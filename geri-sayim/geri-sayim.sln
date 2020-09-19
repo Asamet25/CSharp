@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geri-sayim", "geri-sayim.csproj", "{2086B2B7-C1EA-44CC-A69B-54A2C7CF0490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2086B2B7-C1EA-44CC-A69B-54A2C7CF0490}.Debug|x86.ActiveCfg = Debug|x86
+		{2086B2B7-C1EA-44CC-A69B-54A2C7CF0490}.Debug|x86.Build.0 = Debug|x86
+		{2086B2B7-C1EA-44CC-A69B-54A2C7CF0490}.Release|x86.ActiveCfg = Release|x86
+		{2086B2B7-C1EA-44CC-A69B-54A2C7CF0490}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

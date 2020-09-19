@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/bin/Debug/ehliyet-alma-durumu.exe
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/bin/Debug/ehliyet-alma-durumu.pdb
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/obj/x86/Debug/ehliyet-alma-durumu.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/obj/x86/Debug/ehliyet-alma-durumu.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/obj/x86/Debug/ehliyet-alma-durumu.exe
+/home/abdulsamet/Masaüstü/C#/ehliyet-alma-durumu/obj/x86/Debug/ehliyet-alma-durumu.pdb

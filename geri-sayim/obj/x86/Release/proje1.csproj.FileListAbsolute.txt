@@ -1,0 +1,3 @@
+/home/abdulsamet/Masaüstü/C#/proje1/bin/Release/proje1.exe
+/home/abdulsamet/Masaüstü/C#/proje1/obj/x86/Release/proje1.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/proje1/obj/x86/Release/proje1.exe

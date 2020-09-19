@@ -1,0 +1,4 @@
+/home/abdulsamet/Masaüstü/C#/geri-sayim/bin/Release/geri-sayim.exe
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Release/geri-sayim.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Release/geri-sayim.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Release/geri-sayim.exe

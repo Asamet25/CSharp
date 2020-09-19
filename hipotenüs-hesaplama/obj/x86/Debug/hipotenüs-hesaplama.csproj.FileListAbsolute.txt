@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/bin/Debug/hipotenüs-hesaplama.exe
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/bin/Debug/hipotenüs-hesaplama.pdb
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/obj/x86/Debug/hipotenüs-hesaplama.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/obj/x86/Debug/hipotenüs-hesaplama.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/obj/x86/Debug/hipotenüs-hesaplama.exe
+/home/abdulsamet/Masaüstü/C#/hipotenüs-hesaplama/obj/x86/Debug/hipotenüs-hesaplama.pdb

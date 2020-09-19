@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/bin/Debug/proje1.exe
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/bin/Debug/proje1.pdb
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/obj/x86/Debug/proje1.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/obj/x86/Debug/proje1.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/obj/x86/Debug/proje1.exe
+/home/abdulsamet/Masaüstü/C#/proje1/proje1/obj/x86/Debug/proje1.pdb

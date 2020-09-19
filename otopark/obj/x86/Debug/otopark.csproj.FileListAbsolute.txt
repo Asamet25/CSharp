@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/otopark/bin/Debug/otopark.exe
+/home/abdulsamet/Masaüstü/C#/otopark/bin/Debug/otopark.pdb
+/home/abdulsamet/Masaüstü/C#/otopark/obj/x86/Debug/otopark.csprojAssemblyReference.cache
+/home/abdulsamet/Masaüstü/C#/otopark/obj/x86/Debug/otopark.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/otopark/obj/x86/Debug/otopark.exe
+/home/abdulsamet/Masaüstü/C#/otopark/obj/x86/Debug/otopark.pdb

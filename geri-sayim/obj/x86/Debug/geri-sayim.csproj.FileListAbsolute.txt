@@ -1,0 +1,6 @@
+/home/abdulsamet/Masaüstü/C#/geri-sayim/bin/Debug/geri-sayim.exe
+/home/abdulsamet/Masaüstü/C#/geri-sayim/bin/Debug/geri-sayim.pdb
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Debug/geri-sayim.csproj.CoreCompileInputs.cache
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Debug/geri-sayim.exe
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Debug/geri-sayim.pdb
+/home/abdulsamet/Masaüstü/C#/geri-sayim/obj/x86/Debug/geri-sayim.csprojAssemblyReference.cache
